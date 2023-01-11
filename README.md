@@ -15,7 +15,5 @@ The dataset was collected from page flipping video from smart phones and they wa
 
     -Data Exploration
     -Splitting data into train and test
-    -Data preprocessing
     -Modelling part
-    -Results comparision
     -Conclusion
